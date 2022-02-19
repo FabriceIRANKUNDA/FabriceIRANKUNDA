@@ -12,6 +12,6 @@
 - 👯 I’m looking for collaborations on innovative project solutions.
 - 📫 How to reach me: <a href="mailto:irankundafabrice8@gmail.com">send me an E-mail</a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabriceIRANKUNDA&hide=isues,stars&?count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabriceIRANKUNDA&layout=compact&hide="Jupyter Notebook")](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabriceIRANKUNDA&hide=isues,stars&?count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabriceIRANKUNDA&layout=compact&exclude_repo=CNNs_models,tf_regression_and_classification_model,spam-filter,movie-recommender,S_V_M_Model,KNN-model,Random-Forest-Project,Logistic-Regression-Projec,Customer-Preference-Model )](https://github.com/anuraghazra/github-readme-stats)
 
 
